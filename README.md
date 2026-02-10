@@ -1,6 +1,6 @@
-# IVolt RapidScan User Manual
+# Rapid_Disk_Scraper User Manual
 
-**Version:** 1.0  
+**Version:** 1.3  
 **Release Time:** 1700 CST — 04-19-2025  
 **Platform:** Windows x64  
 **Interface:** Command Line (CLI)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-**IVolt RapidScan** is a high-performance disk and directory scanning utility designed to enumerate files and folders at extremely high speed. It recursively scans one or more paths and exports detailed metadata to CSV files.
+**Rapid_Disk_Scraper** is a high-performance disk and directory scanning utility designed to enumerate files and folders at extremely high speed. It recursively scans one or more paths and exports detailed metadata to CSV files.
 
 Typical use cases include:
 - Fast inventory of disks or directories
